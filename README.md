@@ -8,3 +8,5 @@ AWT (Abstract Window Toolkit)
 - Trigonometric functions (sin, cos, tan, etc.)
 - Logarithmic and exponential calculations
 - User-friendly graphical interface using Applets
+
+![image](https://github.com/user-attachments/assets/e491e24b-d66d-42ab-83fa-49f0cf1cb20f)
